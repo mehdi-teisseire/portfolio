@@ -25,7 +25,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SofiDevO/portfolio-astrosofidev-garrux.git"
+    "url": "git+https://github.com/mehdi-teisseire/portfolio"
   },
   "keywords": [
     "astro",
@@ -37,10 +37,10 @@
     "css",
     "tailwind"
   ],
-  "author": "SofiDev / Garrux",
+  "author": "Mehdi Teisseire",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/portfolio-astrosofidev-garrux/issues"
+    "url": "https://github.com/mehdi-teisseire/portfolio"
   },
-  "homepage": "https://github.com/SofiDevO/portfolio-astrosofidev-garrux#readme"
+  "homepage": "https://github.com/mehdi-teisseire/portfolio"
 }
