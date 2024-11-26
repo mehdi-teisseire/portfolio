@@ -1,31 +1,16 @@
 :root {
 	/* color  */
-	--primary-0: #190230;
-	--primary-10: #2b1560;
-	--primary-20: #442288;
-	--primary-30: #5529ae;
-	--primary-40: #6632cf;
-	--primary-50: #7644e3;
-	--primary-60: #8664ee;
-	--primary-70: #a491f4;
-	--primary-80: #c2b9f9;
+	--primary-0:  #847577;
+	--primary-10: #A6A2A2;
+	--primary-20: #aa9497;
+	--primary-30: #E5E6E4;
+	--primary-40: #FBFBF2;
+	--primary-50: #000000;
+	--primary-60: #000000;
 	--primary-90: #dcd8fc;
 	--primary-95: #edeafd;
 	--primary-99: #f4f4fe;
 	--primary-100: #ffffff;
-	--secondary-0: #1c050e;
-	--secondary-10: #490e25;
-	--secondary-20: #782344;
-	--secondary-30: #87224a;
-	--secondary-40: #ae285f;
-	--secondary-50: #c93978;
-	--secondary-60: #dc5898;
-	--secondary-70: #e77fb4;
-	--secondary-80: #f1b0d3;
-	--secondary-90: #f7d3e7;
-	--secondary-95: #fae9f3;
-	--secondary-99: #fcf3f8;
-	--secondary-100: #ffffff;
 
 	/* colores de las propiedades */
 	--surface: #4F4360;
@@ -63,8 +48,8 @@
 
 	--text-gradient: radial-gradient(
 		circle farthest-corner at center center,
-		#58f9ff 0%,
-		#df44e7 100%
+		#000000 0%,
+		#1d1d1d 100%
 	);
 }
 *{

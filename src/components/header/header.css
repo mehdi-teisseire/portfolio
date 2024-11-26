@@ -20,7 +20,7 @@
 	border-radius: 14px;
 	height: auto;
 	min-height: 7rem;
-	border: 0.03px solid #7c39fd47;
+	border: 0.03px solid #00000047;
 	flex-wrap: wrap;
 }
 
@@ -94,13 +94,13 @@
 	.header .header__list {
 		margin-right: 0;
 		z-index: 2;
-		background: #1c0544;
+		background: #000000;
 		justify-content: center;
 		align-items: center;
 		border-radius: 14px;
 		width: 100%;
 		padding: 0.8rem 1rem;
-		border: 1px solid #dc5898;
+		border: 1px solid #ffffff;
 		align-self: center;
 		opacity: 0;
 		pointer-events: none;
@@ -137,9 +137,9 @@
 		transition: 0.35s opacity;
 		max-width: -moz-max-content;
 		max-width: max-content;
-		color: #33f3c6;
+		color: #ffffff;
 		position: absolute;
-		border: 2px solid #33f3c6;
+		border: 2px solid #000000;
 		pointer-events: all;
 		animation: linear scroll-btn;
 		animation-timeline: scroll();
