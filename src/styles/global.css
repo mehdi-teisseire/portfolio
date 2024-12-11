@@ -1,8 +1,8 @@
 :root {
 	/* color  */
-	--primary-0:  #6B8F71;
-	--primary-10: #8BB196;
-	--primary-20: #AAD2BA;
+	--primary-0:  #000000;
+	--primary-10: #000000;
+	--primary-20: #000000;
 	--primary-30: #D9FFF5;
 	--primary-40: #C9FAE7;
 	--primary-50: #1D1E18;
@@ -48,8 +48,8 @@
 
 	--text-gradient: radial-gradient(
 		circle farthest-corner at center center,
-		#000000 0%,
-		#1d1d1d 100%
+		#ffffff 0%,
+		#ffffff 100%
 	);
 }
 *{
